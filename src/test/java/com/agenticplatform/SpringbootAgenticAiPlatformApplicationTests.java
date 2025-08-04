@@ -1,4 +1,4 @@
-package com.agenticplatform.springboot_agentic_ai_platform;
+package com.agenticplatform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

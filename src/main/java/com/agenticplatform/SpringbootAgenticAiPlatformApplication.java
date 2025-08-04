@@ -1,4 +1,4 @@
-package com.agenticplatform.springboot_agentic_ai_platform;
+package com.agenticplatform;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
