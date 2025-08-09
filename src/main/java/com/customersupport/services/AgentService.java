@@ -1,4 +1,4 @@
-package com.agenticplatform.services;
+package com.customersupport.services;
 
 import dev.langchain4j.service.spring.AiService;
 import dev.langchain4j.service.UserMessage;

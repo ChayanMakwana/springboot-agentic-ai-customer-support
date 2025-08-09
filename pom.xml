@@ -8,11 +8,11 @@
 		<version>3.4.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.agenticplatform</groupId>
-	<artifactId>springboot-agentic-ai-platform</artifactId>
+	<groupId>com.customersupport</groupId>
+	<artifactId>springboot-agentic-ai-customer-support</artifactId>
+	<name>Spring Boot Agentic AI Customer Support</name>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-agentic-ai-platform</name>
-	<description>Spring Boot and LangChain4j based Agentic AI Platform</description>
+	<description>Spring Boot and LangChain4j based Agentic AI Customer Support Application</description>
 	<url/>
 	<licenses>
 		<license/>

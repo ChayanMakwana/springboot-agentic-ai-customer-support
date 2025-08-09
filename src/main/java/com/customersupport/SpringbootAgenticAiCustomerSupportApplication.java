@@ -1,13 +1,13 @@
-package com.agenticplatform;
+package com.customersupport;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootAgenticAiPlatformApplication {
+public class SpringbootAgenticAiCustomerSupportApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootAgenticAiPlatformApplication.class, args);
+		SpringApplication.run(SpringbootAgenticAiCustomerSupportApplication.class, args);
 	}
 
 }
